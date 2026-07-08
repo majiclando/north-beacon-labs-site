@@ -51,7 +51,7 @@ export default function ChargeDropSupportPage() {
         <h2>Location and privacy note</h2>
         <p>ChargeDrop may request foreground location access to estimate nearby charging options and distance.</p>
         <p>ChargeDrop does not use location for ads or tracking.</p>
-        <p>Privacy Policy: <Link href="/chargedrop/privacy">northbeaconlabs.dev/chargedrop/privacy</Link></p>
+        <p>Privacy Policy: <Link href="https://northbeaconlabs.dev/chargedrop/privacy">https://northbeaconlabs.dev/chargedrop/privacy</Link></p>
       </section>
     </div>
   );
