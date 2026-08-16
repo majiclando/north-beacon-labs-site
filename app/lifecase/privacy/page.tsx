@@ -8,7 +8,7 @@ export default function LifeCasePrivacyPage() {
       <section className="hero">
         <div className="eyebrow">Privacy Policy</div>
         <h1>LifeCase Privacy Policy</h1>
-        <p>Pre-publication draft. Effective date: TBD.</p>
+        <p>Effective date: August 16, 2026.</p>
       </section>
 
       <section className="card soft">
