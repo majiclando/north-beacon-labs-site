@@ -28,13 +28,18 @@ export default function PrivacyPage() {
           <Link href="/chargedrop/privacy">Read ChargeDrop privacy policy</Link>
         </article>
         <article className="card">
+          <h2>LifeCase</h2>
+          <p>Local-first record and timeline app with a dedicated pre-publication privacy policy for LifeCase 0.5.0 Build 7.</p>
+          <Link href="/lifecase/privacy">Review LifeCase privacy policy</Link>
+        </article>
+        <article className="card">
           <h2>Support contact</h2>
           <p>Privacy questions can be sent to {site.supportEmail}.</p>
           <a href={`mailto:${site.supportEmail}`}>{site.supportEmail}</a>
         </article>
         <article className="card">
           <h2>Future apps</h2>
-          <p>QuietGuard, Wayly, LifeCase, and EER Documentation Generator privacy pages are planned as those products move toward release.</p>
+          <p>QuietGuard, Wayly, and EER Documentation Generator privacy pages are planned as those products move toward release.</p>
         </article>
       </section>
     </div>

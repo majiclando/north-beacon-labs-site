@@ -24,6 +24,12 @@ export default function SupportPage() {
         <p>For ChargeDrop-specific questions, use the dedicated support page.</p>
         <Link href="/chargedrop/support">Open ChargeDrop support</Link>
       </section>
+
+      <section className="card">
+        <h2>LifeCase support</h2>
+        <p>For LifeCase questions about local records, timelines, capture, or Case Package PDFs, use the dedicated support page.</p>
+        <Link href="/lifecase/support">Open LifeCase support</Link>
+      </section>
     </div>
   );
 }
